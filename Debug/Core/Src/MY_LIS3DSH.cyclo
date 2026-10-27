@@ -1,0 +1,4 @@
+../Core/Src/MY_LIS3DSH.c:10:13:LIS3DSH_WriteReg	1
+../Core/Src/MY_LIS3DSH.c:18:13:LIS3DSH_ReadRegs	1
+../Core/Src/MY_LIS3DSH.c:27:6:LIS3DSH_Init	1
+../Core/Src/MY_LIS3DSH.c:34:6:LIS3DSH_GetData	1
